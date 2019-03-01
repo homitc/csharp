@@ -8,6 +8,11 @@ namespace app
         /// Some field.
         /// </summary>
         int field = 3;
+        
+        /// <summary>
+        /// Some field but as a string.
+        /// </summary>
+        string anotherField = "three";
 
         /// <summary>
         /// My console app's entrypoint.
